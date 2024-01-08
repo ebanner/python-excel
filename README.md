@@ -1,5 +1,7 @@
 # python-excel
 
+Read in an excel file with pandas and print it out
+
 ## Run
 
 ```
